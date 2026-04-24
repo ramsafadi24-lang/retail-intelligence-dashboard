@@ -1,0 +1,195 @@
+product_id,title,price_usd,category,brand,rating,stock,discount_pct,availability
+1,Essence Mascara Lash Princess,9.99,beauty,Essence,2.56,99,10.48,In Stock
+2,Eyeshadow Palette with Mirror,19.99,beauty,Glamour Beauty,2.86,34,18.19,In Stock
+3,Powder Canister,14.99,beauty,Velvet Touch,4.64,89,9.84,In Stock
+4,Red Lipstick,12.99,beauty,Chic Cosmetics,4.36,91,12.16,In Stock
+5,Red Nail Polish,8.99,beauty,Nail Couture,4.32,79,11.44,In Stock
+6,Calvin Klein CK One,49.99,fragrances,Calvin Klein,4.37,29,1.89,In Stock
+7,Chanel Coco Noir Eau De,129.99,fragrances,Chanel,4.26,58,16.51,In Stock
+8,Dior J'adore,89.99,fragrances,Dior,3.8,98,14.72,In Stock
+9,Dolce Shine Eau de,69.99,fragrances,Dolce & Gabbana,3.96,4,0.62,Low Stock
+10,Gucci Bloom Eau de,79.99,fragrances,Gucci,2.74,91,14.39,In Stock
+11,Annibale Colombo Bed,1899.99,furniture,Annibale Colombo,4.77,88,8.57,In Stock
+12,Annibale Colombo Sofa,2499.99,furniture,Annibale Colombo,3.92,60,14.4,In Stock
+13,Bedside Table African Cherry,299.99,furniture,Furniture Co.,2.87,64,19.09,In Stock
+14,Knoll Saarinen Executive Conference Chair,499.99,furniture,Knoll,4.88,26,2.01,In Stock
+15,Wooden Bathroom Sink With Mirror,799.99,furniture,Bath Trends,3.59,7,8.8,Low Stock
+16,Apple,1.99,groceries,Unknown,4.19,8,12.62,In Stock
+17,Beef Steak,12.99,groceries,Unknown,4.47,86,9.61,In Stock
+18,Cat Food,8.99,groceries,Unknown,3.13,46,9.58,In Stock
+19,Chicken Meat,9.99,groceries,Unknown,3.19,97,13.7,In Stock
+20,Cooking Oil,4.99,groceries,Unknown,4.8,10,9.33,In Stock
+21,Cucumber,1.49,groceries,Unknown,4.07,84,0.16,In Stock
+22,Dog Food,10.99,groceries,Unknown,4.55,71,10.27,In Stock
+23,Eggs,2.99,groceries,Unknown,2.53,9,11.05,In Stock
+24,Fish Steak,14.99,groceries,Unknown,3.78,74,4.23,In Stock
+25,Green Bell Pepper,1.29,groceries,Unknown,3.25,33,0.16,In Stock
+26,Green Chili Pepper,0.99,groceries,Unknown,3.66,3,1.0,Low Stock
+27,Honey Jar,6.99,groceries,Unknown,3.97,34,14.4,In Stock
+28,Ice Cream,5.49,groceries,Unknown,3.39,27,8.69,In Stock
+29,Juice,3.99,groceries,Unknown,3.94,50,12.06,In Stock
+30,Kiwi,2.49,groceries,Unknown,4.93,99,15.22,In Stock
+31,Lemon,0.79,groceries,Unknown,3.53,31,9.7,In Stock
+32,Milk,3.49,groceries,Unknown,2.61,27,13.74,In Stock
+33,Mulberry,4.99,groceries,Unknown,4.95,99,12.87,In Stock
+34,Nescafe Coffee,7.99,groceries,Unknown,4.82,57,1.59,In Stock
+35,Potatoes,2.29,groceries,Unknown,4.81,13,5.38,In Stock
+36,Protein Powder,19.99,groceries,Unknown,4.18,80,7.59,In Stock
+37,Red Onions,1.99,groceries,Unknown,4.2,82,9.9,In Stock
+38,Rice,5.99,groceries,Unknown,3.18,59,9.29,In Stock
+39,Soft Drinks,1.99,groceries,Unknown,4.75,53,17.48,In Stock
+40,Strawberry,3.99,groceries,Unknown,3.08,46,1.12,In Stock
+41,Tissue Paper Box,2.49,groceries,Unknown,2.69,86,13.28,In Stock
+42,Water,0.99,groceries,Unknown,4.96,53,14.92,In Stock
+43,Decoration Swing,59.99,home decoration,Unknown,3.16,47,10.41,In Stock
+44,Family Tree Photo Frame,29.99,home decoration,Unknown,4.53,77,14.87,In Stock
+45,House Showpiece Plant,39.99,home decoration,Unknown,4.67,28,7.46,In Stock
+46,Plant Pot,14.99,home decoration,Unknown,3.01,59,6.84,In Stock
+47,Table Lamp,49.99,home decoration,Unknown,3.55,9,7.09,In Stock
+48,Bamboo Spatula,7.99,kitchen accessories,Unknown,3.27,37,2.84,In Stock
+49,Black Aluminium Cup,5.99,kitchen accessories,Unknown,4.46,75,15.65,In Stock
+50,Black Whisk,9.99,kitchen accessories,Unknown,3.9,73,10.24,In Stock
+51,Boxed Blender,39.99,kitchen accessories,Unknown,4.56,9,7.26,In Stock
+52,Carbon Steel Wok,29.99,kitchen accessories,Unknown,4.05,40,6.53,In Stock
+53,Chopping Board,12.99,kitchen accessories,Unknown,3.7,14,8.03,In Stock
+54,Citrus Squeezer Yellow,8.99,kitchen accessories,Unknown,4.63,22,12.1,In Stock
+55,Egg Slicer,6.99,kitchen accessories,Unknown,3.09,40,14.76,In Stock
+56,Electric Stove,49.99,kitchen accessories,Unknown,4.11,21,14.04,In Stock
+57,Fine Mesh Strainer,9.99,kitchen accessories,Unknown,3.04,85,3.5,In Stock
+58,Fork,3.99,kitchen accessories,Unknown,3.11,7,8.07,In Stock
+59,Glass,4.99,kitchen accessories,Unknown,4.02,46,7.92,In Stock
+60,Grater Black,10.99,kitchen accessories,Unknown,3.21,84,3.56,In Stock
+61,Hand Blender,34.99,kitchen accessories,Unknown,3.86,84,17.02,In Stock
+62,Ice Cube Tray,5.99,kitchen accessories,Unknown,4.71,13,0.63,In Stock
+63,Kitchen Sieve,7.99,kitchen accessories,Unknown,3.09,68,18.91,In Stock
+64,Knife,14.99,kitchen accessories,Unknown,3.26,7,18.86,Low Stock
+65,Lunch Box,12.99,kitchen accessories,Unknown,4.93,94,10.34,In Stock
+66,Microwave Oven,89.99,kitchen accessories,Unknown,4.82,59,12.13,In Stock
+67,Mug Tree Stand,15.99,kitchen accessories,Unknown,2.64,88,9.25,In Stock
+68,Pan,24.99,kitchen accessories,Unknown,2.79,90,3.0,In Stock
+69,Plate,3.99,kitchen accessories,Unknown,3.65,66,7.31,In Stock
+70,Red Tongs,6.99,kitchen accessories,Unknown,4.42,82,14.52,In Stock
+71,Silver Pot With Glass Cap,39.99,kitchen accessories,Unknown,3.22,40,5.7,In Stock
+72,Slotted Turner,8.99,kitchen accessories,Unknown,3.4,88,13.35,In Stock
+73,Spice Rack,19.99,kitchen accessories,Unknown,4.87,79,12.09,In Stock
+74,Spoon,4.99,kitchen accessories,Unknown,4.03,59,1.53,In Stock
+75,Tray,16.99,kitchen accessories,Unknown,4.62,71,7.48,In Stock
+76,Wooden Rolling Pin,11.99,kitchen accessories,Unknown,2.92,80,9.75,In Stock
+77,Yellow Peeler,5.99,kitchen accessories,Unknown,4.24,35,12.48,In Stock
+78,Apple MacBook Pro 14 Inch Space Grey,1999.99,laptops,Apple,3.65,24,4.69,In Stock
+79,Asus Zenbook Pro Dual Screen Laptop,1799.99,laptops,Asus,3.95,45,11.14,In Stock
+80,Huawei Matebook X Pro,1399.99,laptops,Huawei,4.98,75,9.38,In Stock
+81,Lenovo Yoga 920,1099.99,laptops,Lenovo,2.86,40,6.55,In Stock
+82,New DELL XPS 13 9300 Laptop,1499.99,laptops,Dell,2.67,74,11.89,In Stock
+83,Blue & Black Check Shirt,29.99,mens shirts,Fashion Trends,3.64,38,15.35,In Stock
+84,Gigabyte Aorus Men Tshirt,24.99,mens shirts,Gigabyte,3.18,90,0.94,In Stock
+85,Man Plaid Shirt,34.99,mens shirts,Classic Wear,3.46,82,19.5,In Stock
+86,Man Short Sleeve Shirt,19.99,mens shirts,Casual Comfort,2.9,2,6.83,Low Stock
+87,Men Check Shirt,27.99,mens shirts,Urban Chic,2.72,95,11.38,In Stock
+88,Nike Air Jordan 1 Red And Black,149.99,mens shoes,Nike,4.77,7,4.12,In Stock
+89,Nike Baseball Cleats,79.99,mens shoes,Nike,3.88,12,18.04,In Stock
+90,Puma Future Rider Trainers,89.99,mens shoes,Puma,4.9,90,4.2,In Stock
+91,Sports Sneakers Off White & Red,119.99,mens shoes,Off White,4.77,17,4.97,In Stock
+92,Sports Sneakers Off White Red,109.99,mens shoes,Off White,4.69,62,0.04,In Stock
+93,Brown Leather Belt Watch,89.99,mens watches,Fashion Timepieces,4.19,32,5.99,In Stock
+94,Longines Master Collection,1499.99,mens watches,Longines,3.87,100,17.24,In Stock
+95,Rolex Cellini Date Black Dial,8999.99,mens watches,Rolex,4.97,40,8.88,In Stock
+96,Rolex Cellini Moonphase,12999.99,mens watches,Rolex,2.58,36,17.52,In Stock
+97,Rolex Datejust,10999.99,mens watches,Rolex,3.66,86,3.73,In Stock
+98,Rolex Submariner Watch,13999.99,mens watches,Rolex,2.69,55,5.05,In Stock
+99,Amazon Echo Plus,99.99,mobile accessories,Amazon,4.99,61,12.07,In Stock
+100,Apple Airpods,129.99,mobile accessories,Apple,4.15,67,15.54,In Stock
+101,Apple AirPods Max Silver,549.99,mobile accessories,Apple,3.47,59,13.67,In Stock
+102,Apple Airpower Wireless Charger,79.99,mobile accessories,Apple,3.68,1,4.48,Low Stock
+103,Apple HomePod Mini Cosmic Grey,99.99,mobile accessories,Apple,4.62,27,18.1,In Stock
+104,Apple iPhone Charger,19.99,mobile accessories,Apple,4.15,31,18.52,In Stock
+105,Apple MagSafe Battery Pack,99.99,mobile accessories,Apple,3.62,1,17.17,Low Stock
+106,Apple Watch Series 4 Gold,349.99,mobile accessories,Apple,2.74,33,12.02,In Stock
+107,Beats Flex Wireless Earphones,49.99,mobile accessories,Beats,4.24,50,5.73,In Stock
+108,iPhone 12 Silicone Case with MagSafe Plum,29.99,mobile accessories,Apple,3.62,69,13.85,In Stock
+109,Monopod,19.99,mobile accessories,Techgear,4.43,48,8.58,In Stock
+110,Selfie Lamp with iPhone,14.99,mobile accessories,Gadgetmaster,3.55,58,19.4,In Stock
+111,Selfie Stick Monopod,12.99,mobile accessories,Snaptech,3.88,11,19.12,In Stock
+112,TV Studio Camera Pedestal,499.99,mobile accessories,Provision,2.78,15,8.31,In Stock
+113,Generic Motorcycle,3999.99,motorcycle,Generic Motors,4.91,34,12.1,In Stock
+114,Kawasaki Z800,8999.99,motorcycle,Kawasaki,3.98,52,9.77,In Stock
+115,MotoGP CI.H1,14999.99,motorcycle,Motogp,2.97,10,6.92,In Stock
+116,Scooter Motorcycle,2999.99,motorcycle,Scootmaster,2.53,84,6.27,In Stock
+117,Sportbike Motorcycle,7499.99,motorcycle,Speedmaster,3.94,0,11.58,Out of Stock
+118,Attitude Super Leaves Hand Soap,8.99,skin care,Attitude,3.19,94,18.49,In Stock
+119,Olay Ultra Moisture Shea Butter Body Wash,12.99,skin care,Olay,4.51,34,16.39,In Stock
+120,Vaseline Men Body and Face Lotion,9.99,skin care,Vaseline,3.16,95,13.39,In Stock
+121,iPhone 5s,199.99,smartphones,Apple,2.83,25,12.91,In Stock
+122,iPhone 6,299.99,smartphones,Apple,3.41,60,6.69,In Stock
+123,iPhone 13 Pro,1099.99,smartphones,Apple,4.12,56,9.37,In Stock
+124,iPhone X,899.99,smartphones,Apple,2.51,37,19.59,In Stock
+125,Oppo A57,249.99,smartphones,Oppo,3.94,19,2.43,In Stock
+126,Oppo F19 Pro Plus,399.99,smartphones,Oppo,3.51,78,18.64,In Stock
+127,Oppo K1,299.99,smartphones,Oppo,4.25,55,18.29,In Stock
+128,Realme C35,149.99,smartphones,Realme,4.2,48,15.3,In Stock
+129,Realme X,299.99,smartphones,Realme,3.7,12,6.95,In Stock
+130,Realme XT,349.99,smartphones,Realme,4.58,80,11.51,In Stock
+131,Samsung Galaxy S7,299.99,smartphones,Samsung,3.3,67,19.55,In Stock
+132,Samsung Galaxy S8,499.99,smartphones,Samsung,4.4,0,19.45,Out of Stock
+133,Samsung Galaxy S10,699.99,smartphones,Samsung,3.06,19,5.59,In Stock
+134,Vivo S1,249.99,smartphones,Vivo,3.5,50,10.17,In Stock
+135,Vivo V9,299.99,smartphones,Vivo,3.6,82,17.67,In Stock
+136,Vivo X21,499.99,smartphones,Vivo,4.26,7,17.41,In Stock
+137,American Football,19.99,sports accessories,Unknown,4.91,53,4.93,In Stock
+138,Baseball Ball,8.99,sports accessories,Unknown,2.57,100,1.71,In Stock
+139,Baseball Glove,24.99,sports accessories,Unknown,3.96,22,2.9,In Stock
+140,Basketball,14.99,sports accessories,Unknown,4.66,75,7.44,In Stock
+141,Basketball Rim,39.99,sports accessories,Unknown,4.6,43,7.74,In Stock
+142,Cricket Ball,12.99,sports accessories,Unknown,3.53,30,8.63,In Stock
+143,Cricket Bat,29.99,sports accessories,Unknown,3.17,98,3.29,In Stock
+144,Cricket Helmet,44.99,sports accessories,Unknown,4.69,10,9.64,In Stock
+145,Cricket Wicket,29.99,sports accessories,Unknown,4.73,25,16.93,In Stock
+146,Feather Shuttlecock,5.99,sports accessories,Unknown,2.85,95,2.95,In Stock
+147,Football,17.99,sports accessories,Unknown,3.28,96,5.15,In Stock
+148,Golf Ball,9.99,sports accessories,Unknown,4.3,84,17.37,In Stock
+149,Iron Golf,49.99,sports accessories,Unknown,4.41,90,6.53,In Stock
+150,Metal Baseball Bat,29.99,sports accessories,Unknown,4.66,16,19.51,In Stock
+151,Tennis Ball,6.99,sports accessories,Unknown,4.06,28,11.76,In Stock
+152,Tennis Racket,49.99,sports accessories,Unknown,4.03,6,19.61,Low Stock
+153,Volleyball,11.99,sports accessories,Unknown,3.84,0,12.25,Out of Stock
+154,Black Sun Glasses,29.99,sunglasses,Fashion Shades,4.41,60,4.94,In Stock
+155,Classic Sun Glasses,24.99,sunglasses,Fashion Shades,3.86,1,4.94,Low Stock
+156,Green and Black Glasses,34.99,sunglasses,Fashion Shades,4.55,24,1.01,In Stock
+157,Party Glasses,19.99,sunglasses,Fashion Fun,2.79,86,11.22,In Stock
+158,Sunglasses,22.99,sunglasses,Fashion Shades,3.02,27,1.51,In Stock
+159,iPad Mini 2021 Starlight,499.99,tablets,Apple,3.18,47,3.64,In Stock
+160,Samsung Galaxy Tab S8 Plus Grey,599.99,tablets,Samsung,4.68,62,13.31,In Stock
+161,Samsung Galaxy Tab White,349.99,tablets,Samsung,3.72,92,18.2,In Stock
+162,Blue Frock,29.99,tops,Unknown,4.17,52,12.13,In Stock
+163,Girl Summer Dress,19.99,tops,Unknown,4.77,43,19.2,In Stock
+164,Gray Dress,34.99,tops,Unknown,2.72,55,14.28,In Stock
+165,Short Frock,24.99,tops,Unknown,3.23,22,13.45,In Stock
+166,Tartan Dress,39.99,tops,Unknown,4.05,73,12.95,In Stock
+167,300 Touring,28999.99,vehicle,Chrysler,4.05,54,3.98,In Stock
+168,Charger SXT RWD,32999.99,vehicle,Dodge,2.58,57,8.23,In Stock
+169,Dodge Hornet GT Plus,24999.99,vehicle,Dodge,2.65,82,2.63,In Stock
+170,Durango SXT RWD,36999.99,vehicle,Dodge,4.07,95,16.44,In Stock
+171,Pacifica Touring,31999.99,vehicle,Chrysler,3.62,53,14.76,In Stock
+172,Blue Women's Handbag,49.99,womens bags,Fashionista,2.92,76,17.88,In Stock
+173,Heshe Women's Leather Bag,129.99,womens bags,Heshe,4.92,99,3.87,In Stock
+174,Prada Women Bag,599.99,womens bags,Prada,2.71,75,14.09,In Stock
+175,White Faux Leather Backpack,39.99,womens bags,Urban Chic,3.36,39,15.2,In Stock
+176,Women Handbag Black,59.99,womens bags,Elegance Collection,2.89,11,11.63,In Stock
+177,Black Women's Gown,129.99,womens dresses,Unknown,3.64,25,10.48,In Stock
+178,Corset Leather With Skirt,89.99,womens dresses,Unknown,3.05,30,16.26,In Stock
+179,Corset With Black Skirt,79.99,womens dresses,Unknown,4.52,33,15.06,In Stock
+180,Dress Pea,49.99,womens dresses,Unknown,4.88,6,17.68,Low Stock
+181,Marni Red & Black Suit,179.99,womens dresses,Unknown,4.48,62,19.02,In Stock
+182,Green Crystal Earring,29.99,womens jewellery,Unknown,3.96,54,15.24,In Stock
+183,Green Oval Earring,24.99,womens jewellery,Unknown,3.57,73,15.18,In Stock
+184,Tropical Earring,19.99,womens jewellery,Unknown,4.4,1,0.76,Low Stock
+185,Black & Brown Slipper,19.99,womens shoes,Comfort Trends,2.53,3,3.33,Low Stock
+186,Calvin Klein Heel Shoes,79.99,womens shoes,Calvin Klein,4.92,93,3.19,In Stock
+187,Golden Shoes Woman,49.99,womens shoes,Fashion Diva,3.26,88,13.93,In Stock
+188,Pampi Shoes,29.99,womens shoes,Pampi,3.05,49,14.14,In Stock
+189,Red Shoes,34.99,womens shoes,Fashion Express,3.25,7,17.69,Low Stock
+190,IWC Ingenieur Automatic Steel,4999.99,womens watches,Iwc,2.93,90,9.45,In Stock
+191,Rolex Cellini Moonphase,15999.99,womens watches,Rolex,3.83,52,4.11,In Stock
+192,Rolex Datejust Women,10999.99,womens watches,Rolex,2.86,4,15.94,Low Stock
+193,Watch Gold for Women,799.99,womens watches,Fashion Gold,4.24,0,18.34,Out of Stock
+194,Women's Wrist Watch,129.99,womens watches,Fashion Co.,3.52,12,12.6,In Stock
